@@ -37,5 +37,5 @@ The code consists of the following steps:
 
 ## **Contact**
 
-For any questions or suggestions, feel free to reach out to me at [INSERT YOUR EMAIL HERE].
+For any questions or suggestions, feel free to reach out to me at sumiranbhatnagar2421@gmail.com .
 
